@@ -5,7 +5,7 @@ This is to address the first problem:
 
 ## to parse a file to a delimited file
 
-"Usage: python fixedwidthparse.py <source_file> <output_file> <spec_file> {delimiter}"
+Usage: python fixedwidthparse.py <source_file> <output_file> <spec_file> {delimiter}
 
 ## Unit test:
 Usage: python my_parse_test.py
